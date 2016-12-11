@@ -1,0 +1,41 @@
+h1 {
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 28px
+    /*border-bottom: 8px solid #57c4d0
+    position: absolute;*/
+}
+
+.title {
+  border-bottom: 6px solid #00BFFF;
+}
+
+p {
+    /*color: green;*/
+    font-size: 18px;
+    text-align: left;
+}
+
+img {
+  width:350px;
+  height:233px;
+  max-width:100%;
+  height: auto;
+  float: right;
+  margin: 20px 0 10px 10px;
+}
+
+/*.img-circle {
+    border-radius: 50%;
+}*/
+
+ul {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+li {
+  font-family: "Times New Roman", Times, serif;
+}
+
+html {
+    padding: 10px 30px 30px 30px;
+}
